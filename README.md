@@ -322,7 +322,7 @@ For a list of all contributors to the OWASP Juice Shop please visit our
 
 ## Licensing [![license](https://img.shields.io/github/license/bkimminich/juice-shop.svg)](LICENSE)
 
-This program is free software: you can redistribute it and/or modify it
+This program is free software: you1 can redistribute it and/or modify it
 under the terms of the [MIT license](LICENSE). OWASP Juice Shop and any
 contributions are Copyright © by Bjoern Kimminich 2014-2020.
 
